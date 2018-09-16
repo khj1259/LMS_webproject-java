@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.gurobit5.controller.ConMyMenu" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/ConMyMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="412" width="363" x="2934" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.gurobit5.controller.ConJoin" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/ConJoin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="337" x="2309" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.gurobit5.controller.ConIndex" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/ConIndex.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1331" y="143"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.gurobit5.controller.bbs.ConJobAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConJobAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="159" x="690" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.gurobit5.controller.bbs.ConConsult" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConConsult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3491" y="264"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.gurobit5.controller.bbs.ConLecNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConLecNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="204" x="889" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.gurobit5.controller.bbs.ConEmpNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConEmpNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="159" x="61" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.gurobit5.controller.bbs.ConJobInfo" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConJobInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="337" x="1932" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.gurobit5.controller.bbs.ConLecAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/controller/bbs/ConLecAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1123" y="424"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.gurobit5.model.DaoMember" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/DaoMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="337" x="1993" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.gurobit5.model.DaoScore" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/DaoScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="222" x="570" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.gurobit5.model.DaoLecInfo" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/DaoLecInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="269" x="2370" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.gurobit5.model.DaoLecRoom" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/DaoLecRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="234" x="2679" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.gurobit5.model.DaoAttend" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/DaoAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="240" x="290" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.gurobit5.model.bbs.DaoLecAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoLecAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="209" x="1106" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.gurobit5.model.bbs.DaoLecNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoLecNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="234" x="832" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.gurobit5.model.bbs.DaoConsult" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoConsult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3462" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.gurobit5.model.bbs.DaoJobInfo" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoJobInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="188" x="1723" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.gurobit5.model.bbs.DaoEmpNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoEmpNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="144" x="1539" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.gurobit5.model.bbs.DaoJobAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/DaoJobAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="144" x="1355" y="651"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.gurobit5.model.bbs.entity.DtoLecAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoLecAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="574" width="179" x="1106" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.gurobit5.model.bbs.entity.DtoLecNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoLecNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="520" width="175" x="832" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.gurobit5.model.bbs.entity.DtoConsult" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoConsult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3279" y="1372"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.gurobit5.model.bbs.entity.DtoJobInfo" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoJobInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1967" y="1511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.gurobit5.model.bbs.entity.DtoEmpNotice" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoEmpNotice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="412" width="175" x="260" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.gurobit5.model.bbs.entity.DtoJobAf" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/bbs/entity/DtoJobAf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="574" width="175" x="475" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.gurobit5.model.entity.DtoLecRoom" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/entity/DtoLecRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="178" x="2976" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.gurobit5.model.entity.DtoAttend" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/entity/DtoAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="153" x="290" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.gurobit5.model.entity.DtoMember" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/entity/DtoMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2208" y="1311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.gurobit5.model.entity.DtoLecInfo" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/entity/DtoLecInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="574" width="179" x="2757" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.gurobit5.model.entity.DtoScore" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/model/entity/DtoScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="151" x="570" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.gurobit5.util.MyErrSender" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/util/MyErrSender.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3187" y="594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.gurobit5.util.MyOracle" project="project-5-2-ver-1.0" 
+    file="/project-5-2-ver-1.0/src/com/gurobit5/util/MyOracle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1650" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="35">    
+    <bendpoint x="2964" y="651"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <association id="39">    
+    <bendpoint x="1941" y="651"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="40" name="dtoJobInfo"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="45">    
+    <bendpoint x="2943" y="651"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="46">    
+    <bendpoint x="2985" y="651"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="48">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="49" name="daoJobInfo"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="3841" y="651"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="55">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="57">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="58" name="daoJobInfoList"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="65">    
+    <bendpoint x="1962" y="651"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="66" name="dtoJobInfoList"/>      
+      <multiplicity id="67" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <association id="71">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="72" name="daoJobInfo"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="74">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="75">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
